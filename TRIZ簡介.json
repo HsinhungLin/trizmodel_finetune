@@ -1,0 +1,171 @@
+[
+	{
+		"question":"TRIZ是什麼?",
+		"answer":
+				[
+				"TRIZ是俄文Teoriya Resheniya Izobretatelskikh Zadatch字首的縮寫，其意義為「創新性(發明)問題解決理論」（英譯全名為Theory of Inventive Problem Solving）。",
+				"由蘇俄發明家Genrich S. Altshuller于1946年開始，分析研究超過二十萬件專利所提出的系統化創新方法。",	"TRIZ是一可提升創造能量、拓展革新思維之方法，其通盤、有效且具系統化之特性將可應用於產業之各項領域。",				"有別於傳統腦力激盪，TRIZ強調發明或創新可依一定的程序與步驟進行，而非僅是隨機或天馬行空的跳躍式思考而已。"]
+	},
+	{
+		"question":"TRIZ之父是誰",
+		"answer":"Genrich S. Altshuller"
+	},
+	{
+		"question":"Genrich S. Altshuller的生平",
+		"answer":
+				[
+				"1926/10/25 誕生於前蘇聯的Tashkent(塔什干, 烏茲別克首府)",
+				"青少年時期 (1926 -1946)",
+				"2歲: 回到Azerbaidzhan(亞塞拜然)的首府Baku。",
+				"14歲: 發明第一個專利:水肺。",
+				"20歲: 在Caspain Sea Military Navy擔任專利審查員。",
+				"壯年時期 (1947 -1985)",
+				"22歲: 上書史達林說明有理論可幫助創新發明。",
+				"24歲: 判25年勞改。28歲史達林逝世後被釋。",
+				"30歲: 1956年發表第一篇論文，震撼當時研究創造力學者，接陸續發表TRIZ成果，分析20萬個專利，發現大約1500個技術矛盾。",
+				"晚年時期 (1986 – 1998)",
+				"64歲:回到Karelia的Petrozavodsk(彼得羅札沃茨克)",
+				"72歲:1998年9月24日因疾病過世。"
+				]
+	},
+	{
+		"question":"TRIZ的發展歷程",
+		"answer":
+				[
+				"1946年: 開始TRIZ研究","1948年上書史達林(Stalin)；告知研究夥伴Gulag關於39項工程參數與40項發明原則的發現",
+				"1954年: Altshuller 離開勞改營",
+				"1956年: 發表首篇TRIZ論文– 理想性(Ideality)",
+				"1961年: 第一本TRIZ書籍問世 – Learning to Invent",
+				"1969年: 於Baku成立首處TRIZ教育中心、TRIZ研究室、舉辦首屆TRIZ Seminar",
+				"1971年: 於蘇聯數個城市成立TRIZ學校",
+				"1974年: 於St. Peterburg成立TRIZ學校",
+				"1981年: 舉辦TRIZ Research Conference",
+				"1989年: The Russian TRIZ Association成立",
+				"1993年: TRIZ傳至歐、美地區",
+				"1996年: TRIZ Journal成立",
+				"1999年: Altsuhller Institute成立"
+				]
+	},
+	{
+		"question":"Genrich S. Altshuller的思維",
+		"answer":
+				[
+				"The evolution of engineering systems is not a random process, but obeys certain laws.",
+				"Products/processes evolve towards the increase of perfection (ideality) by elicitation and overcoming technical and physical contradictions.",
+				"TRIZ is a tool for thinking but not instead of thinking.",
+				"Creativity is not a born gift. Every engineer can learn to be inventive!"
+				]
+	},
+	{
+		"question":"TRIZ的基本想法",
+		"answer":
+				["TRIZ的基本想法即是利用前人已發展的方法求解，整個過程係一系統化的步驟，而非試誤法(Try and Error)。","TRIZ的求解過程係先將問題抽象化，再經由運算元(Operators)的轉換找出抽象問題的解答，進而尋找原問題的答案。",				"為使用通用知識的結構化模式；對一特定問題，先轉換為已知的標準問題形式，再利用已存在的標準答案做為解決原問題的思考方向。"
+				]
+	},
+	{
+		"question":"什麼是創新性(發明)問題(Inventive Problem)?",
+		"answer":
+				[
+				"提出新問題(要產生新產品/服務概念)",
+				"要解決目前還沒有解決的問題",
+				"改進一系統特徵, 又使另一系統特徵惡化(矛盾/衝突)"
+				]
+	},
+	{
+		"question":"TRIZ能做什麼?",
+		"answer":
+				[
+				"解決創新性問題以產生發明",
+				"產生新產品概念"
+				]
+	},
+	{
+		"question":"TRIZ知識體系有哪些?",
+		"answer":
+				["突破心智慣性",
+				"理想性與演進趨勢",
+				"40發明原理與分離原則",
+				"物質場與76標準解",
+				"發明問題解決演算法ARIZ-85C",
+				"專利知識庫",
+				"科學效應庫"
+				]
+	},
+	{
+		"question":"TRIZ相關的工具",
+		"answer":
+				[
+				"理想性法則(Law of Ideality, 1956)​",
+				"資源利用(Use of Resources)",
+				"演化趨勢(Patterns of Evolution,1969-1985)​",
+				"40發明原則(40 Inventive Principles, 1956-1971)​",
+				"矛盾矩陣(Contradiction Matrix, 1956-1971)​",
+				"分離原則(Separation Principles, 1979)​",
+				"物質-場分析(Su-Field Analysis, 1974-1979)​",
+				"76標準解(76 standard solution,1974-1979)​","發明問題解決演算法(ARIZ,1959-1985)",
+				"科學效應(Effects)",
+				"功能分析(Function Analysis)",
+				"小精靈(Smart little people)",
+				"九宮格(9-Windows)"
+				]
+	},
+	{
+		"question":"理想性的涵義",
+		"answer":
+				[
+				"技術系統的發展，總是朝向更理想的方向演進，理想性可量化此趨勢。​","要了解某個初步構想是否可行，可利用理想性加以評估。​","Altshuller提出「理想的技術系統（Ideal Technological System）」概念：一個理想技術系統其質量、尺寸、成本、能量消耗都趨近於零，但卻不妨礙其執行特定的功能。​","在解決問題之初，應暫時不考慮目前求解問題的種種限制，先建立理想模型來分析問題，並找出最終理想解(IFR)，作為追求的目標",
+				"Ideality is defined as the quotient of the sum of the system’s useful effects (Ui), divided by the sum of its harmful effects (Hj)"
+				]
+	},
+	{
+		"question":"最終理想解是什麼?",
+		"answer":
+				[
+				"最終理想解為Ideal Final Result (IFR)",
+				"Ideal Final Result (IFR) of a line of inventive evolution is obtained when the Ui are large and the Hj are zero",
+				"The function of the machine exists, but the machine itself does not. (無其物而具其功)​"
+				]
+	},
+	{
+		"question":"理想性的案例",
+		"answer":
+				[
+				"免費、完美、現在​",
+				"錢多事少離家近、位高權重責任輕​",
+				"沒有葉片的電風扇:Dyson",
+				"沒有車子的計程車行:Uber",
+				"沒有房間的旅館飯店​:Airbnb​",
+				"望梅止渴",
+				"不戰而屈人之兵",
+				"無為而治"
+				]
+	},
+	{
+		"question":"善用資源的基本思維",
+		"answer":
+				[
+				"盡量使用現有資源完成工作。​",
+				"設法減少多餘的資源。"
+				]
+	},
+	{
+		"question":"資源包括那些?",
+		"answer":
+				[
+				"系統自身的資源​",
+				"外在環境的資源",​"系統周遭任何沒有被用到極致的事物皆可視為資源；即使它目前被認為是有害的事物。"
+				]
+	},
+	{
+		"question":"六大資源是什麼?",
+		"answer":
+				[
+				"空間資源",
+				"時間資源",
+				"物質資源",
+				"能場資源",
+				"資訊資源",
+				"功能資源"
+				]
+	},
+]
